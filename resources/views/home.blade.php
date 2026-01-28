@@ -144,10 +144,17 @@
                 projects. If you want to know more about me or see what I've made, just click the buttons below!
             </p>
 
+
+
+                {{-- buttons here  --}}
             <div class="buttons">
                 <a href="/about" class="btn-about">About Me</a>
                 <a href="/projects" class="btn-projects">My Projects</a>
             </div>
+
+
+
+
         </div>
     </div>
 </body>
